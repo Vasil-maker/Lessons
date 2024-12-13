@@ -1,0 +1,14 @@
+D:\C# Programing\Begin\Lesson_1\Lesson_1\bin\Debug\net8.0\Lesson_1.exe
+D:\C# Programing\Begin\Lesson_1\Lesson_1\bin\Debug\net8.0\Lesson_1.deps.json
+D:\C# Programing\Begin\Lesson_1\Lesson_1\bin\Debug\net8.0\Lesson_1.runtimeconfig.json
+D:\C# Programing\Begin\Lesson_1\Lesson_1\bin\Debug\net8.0\Lesson_1.dll
+D:\C# Programing\Begin\Lesson_1\Lesson_1\bin\Debug\net8.0\Lesson_1.pdb
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.AssemblyInfoInputs.cache
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.AssemblyInfo.cs
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.csproj.CoreCompileInputs.cache
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.dll
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\refint\Lesson_1.dll
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.pdb
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\Lesson_1.genruntimeconfig.cache
+D:\C# Programing\Begin\Lesson_1\Lesson_1\obj\Debug\net8.0\ref\Lesson_1.dll
